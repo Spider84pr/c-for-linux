@@ -1,0 +1,3 @@
+/home/a/linuxc/1-helloworld/CMakeFiles/HelloWorld.dir
+/home/a/linuxc/1-helloworld/CMakeFiles/edit_cache.dir
+/home/a/linuxc/1-helloworld/CMakeFiles/rebuild_cache.dir
